@@ -1,0 +1,16 @@
+Package: com.staturnz.lyncis.untether
+Architecture: iphoneos-arm
+Version: 1.0.0
+Priority: optional
+Section: Untether
+Maintainer: staturnz
+Filename: ./debs/com.staturnz.lyncis.untether_1.0.0_iphoneos-arm.deb
+Size: 112832
+MD5sum: 7d8321d61495861c4ced92b3db7b9f21
+SHA1: 0e69a0da0fe17b2c057401d3b2a9efe4685ae95d
+SHA256: 1ebce418cb964f241f3d48128d3b03449d6341b40c93cf9016c63cb33c8c6ae5
+SHA512: 35e6222a571fd391bee1c6c4d176fcaf6b73e65b0c8b01649897392f247ce2b7d577fb1388c8d2ba1ce893707d4910bb18db2aeb9041879f556140fcfb315e14
+Description: 32bit untether for iOS 7.0-7.1.2
+Name: Lyncis Untether
+Author: Staturnz
+
